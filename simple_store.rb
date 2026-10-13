@@ -3,3 +3,5 @@
 # Rosie Guillen
 # Agile Full Stack Development WEBD-3011
 
+## added product model and product. 
+
