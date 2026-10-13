@@ -1,11 +1,13 @@
-# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
 one:
-  title: MyString
-  description: MyText
-  price: 9.99
+  title: Test Shoes
+  description: A pair of shoes
+  price: 25.00
+  stock_quantity: 10
+  category: one
 
 two:
-  title: MyString
-  description: MyText
-  price: 9.99
+  title: Test Shirt
+  description: A cotton shirt
+  price: 15.00
+  stock_quantity: 5
+  category: two
